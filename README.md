@@ -17,3 +17,5 @@ G-11. Path of Machine_Translation ([Machine Translation](https://github.com/Noah
 G-12. Eval_Translation ([Transformer_Translation](https://github.com/Noah-Junseo/AIFFEL_GOINGDEEPER_NLP/blob/main/G-12/%5BG-12%5D%20Eval_Translation.ipynb))|
 G-13. Modern_NLP ([Transformer_NLP](https://github.com/Noah-Junseo/AIFFEL_GOINGDEEPER_NLP/blob/main/G-13/%5BG-13%5D%20Modern_Nlp.ipynb))|
 G-14. Bert_Pretrain ([Pretrain](https://github.com/Noah-Junseo/AIFFEL_GOINGDEEPER_NLP/blob/main/G-14/%5BG-14%5D%20Bert_Pretrain.ipynb))|
+G-15. NLP_Framework ([Frameworkd](https://github.com/Noah-Junseo/AIFFEL_GOINGDEEPER_NLP/blob/main/G-15/%5BG-15%5D%20Nlp_Framework.ipynb))|
+G-16. HuggingFace ([HuggingFace](https://github.com/Noah-Junseo/AIFFEL_GOINGDEEPER_NLP/blob/main/G-16/%5BG-16%5D%20HuggingFace.ipynb))|
